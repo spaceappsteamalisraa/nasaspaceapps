@@ -2,7 +2,7 @@
 
 An entry for the 2026 NASA Space Apps Challenge, **"Abandoned but not Forgotten: Storytelling about NASA's Discarded Equipment on the Moon and Mars."**
 
-**Live site:** https://syd-47.github.io/nasaspaceapps/
+**Live site:** https://alisraa.github.io/nasaspaceapps/
 
 The site tells the story of 20 pieces of NASA equipment left on the Moon and Mars, from Surveyor 1 to Ingenuity, and what NASA's adopted plans mean for each one.
 
